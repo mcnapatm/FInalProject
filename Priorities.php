@@ -1,5 +1,5 @@
 <?php
-$con=mysqli_connect("localhost","patric14_admin","o@KZj?Q6","patric14_taskmaster"); //Database Connection
+$con=mysqli_connect("localhost","patric14_admin","","patric14_taskmaster"); //Database Connection
 session_start(); // Start the session
 
 $PriorityNumber1 = $_POST['Priority_1'];
