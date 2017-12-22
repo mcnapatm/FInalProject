@@ -2,7 +2,7 @@
 /* Database config */
 $db_host = 'localhost';
 $db_user = 'patric14_admin';
-$db_pass = 'o@KZj?Q6';
+$db_pass = '';
 $db_database = 'patric14_taskmaster';
 
 /* End Config */
