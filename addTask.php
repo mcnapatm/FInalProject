@@ -1,6 +1,6 @@
 <?php
 	session_start();
-	$con=mysqli_connect("localhost",'patric14_admin','o@KZj?Q6','patric14_taskmaster');
+	$con=mysqli_connect("localhost",'patric14_admin','','patric14_taskmaster');
 
 	if (mysqli_connect_errno()) 
 	{
